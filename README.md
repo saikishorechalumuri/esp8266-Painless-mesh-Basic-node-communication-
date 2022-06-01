@@ -161,6 +161,11 @@ I HAVE CONNECTED THREE NODES NOW I WAS SEEING THA DATA AT NODE 3 WHERE YOU CAN S
 ![image](https://user-images.githubusercontent.com/93335682/171431890-be239068-fce8-4c8d-ac26-61d878006670.png)
 
 
+OUTPUT  CIRCUIT CONNECTION 
+![image](https://user-images.githubusercontent.com/93335682/171432773-8b0c01cc-1a64-40ff-aef1-e2edbca26ba7.png)
+
+
+
 
 REFERED ARTICLE :https://randomnerdtutorials.com/esp-mesh-esp32-esp8266-painlessmesh/
 
