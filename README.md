@@ -167,6 +167,6 @@ OUTPUT  CIRCUIT CONNECTION
 
 
 
-REFERED ARTICLE :https://randomnerdtutorials.com/esp-mesh-esp32-esp8266-painlessmesh/
+
 
 
